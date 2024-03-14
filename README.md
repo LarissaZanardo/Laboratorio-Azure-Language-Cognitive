@@ -1,5 +1,5 @@
 # Analise-de-imagens-com-AI-Vision
-Repositorio criado para análisar imagens com inteligencia artificial do Azure.
+Repositorio criado para análisar textos, mensagens e fala com AI do Azure.
 
 ## Projeto Analise de dados IA Microsoft Azure
 📒 Estudante de Analise e Desenvolvimento de Sistemas |
