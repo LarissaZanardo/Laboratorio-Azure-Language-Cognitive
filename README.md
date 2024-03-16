@@ -1,4 +1,4 @@
-# Analise-de-imagens-com-AI-Vision
+# Analise-de-texto e linguagens
 Repositorio criado para análisar textos, mensagens e fala com AI do Azure.
 
 ## Projeto Analise de dados IA Microsoft Azure
